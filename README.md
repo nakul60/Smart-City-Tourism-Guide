@@ -4,6 +4,7 @@ A comprehensive web-based tourism platform designed to help visitors explore cit
 **🌐 Website: https://smart-city-tourism-guide.netlify.app/**
 <br>
 **✨ Features**
+<br>
 Core Functionality
 <br>
 🏛️ City Exploration: Browse and discover various cities with detailed information
